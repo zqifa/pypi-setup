@@ -4,9 +4,9 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='zqifatools',
+    name='mypackage',
     version='0.0.1',
-    description='tools',
+    description='package description',
     long_description=open('README.rst').read(),
     author='Aaron Chu',
     author_email='zqifa@outlook.com',
